@@ -8,8 +8,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id@SD",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id@SD",Trans7 (24/7)
+https://live.eu-north-1a.cf.dmcdn.net/sec2(W2k_J5EalCFCuCDLqBzqfTegC2fiT7X2gLJXL7Ef0ITV_AaadS7rtbkNAvFZjo4eB6j6ugm9OB8qyl71P7Q2QYT9-EP3b6uzdyUVRHZMTX6u0TWHQa89k6JHhzfgtROS)/dm/3/x8qckyq/d/live-480.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id@SD",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
