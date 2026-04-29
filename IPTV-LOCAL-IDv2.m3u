@@ -9,10 +9,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id@SD",Trans7 (24/7)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(xdxPEqEEnJyaKK1u79R50o3EA9VMp4CSOuvroY7eUUZgQGtGKXFTFMolxYeWfFId3nHN6iNyTvS_vLLA8KBZgoAnWyKVVf3T39RmBNPNw2TpRHB58BtzLIuOx6geXsvk)/dm/3/x8qckyq/d/live-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(W478EYJXYWERH7uFc-yOt3na5qwb0u_kkbAVPcAMfG_dN0vBgy0IQPi0Uc9hHLMGJ7EqmdjO-fr1D_fzeu6bSbOwUJgVR9KiIZv82i8IV3da95bypAnWRmXJU5bcnAsh)/dm/3/x8qckyq/d/live-480.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id@SD",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id@SD",Trans 7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" group-title="Dens TV",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
